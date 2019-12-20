@@ -1,6 +1,6 @@
 # IBAN
 
-IBAN iss a very lightweight IBAN validator.
+IBAN is a very lightweight IBAN validator.
 
 Simply import the library as follows:
 
